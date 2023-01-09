@@ -1,0 +1,2 @@
+## Typescript practice repository
+This repository holds the code generated following the TypeScript Course from Jack Herrington's [NO BS-TS](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) playlist.
